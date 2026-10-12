@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 description 'items to help players breathe and move underwater'
-repository 'https://github.com/0error-scripts/aicore_divegear'
+repository 'https://github.com/aicore-fivem/aicore_divegear'
 version '1.0.1'
 
 ox_lib 'locale'
